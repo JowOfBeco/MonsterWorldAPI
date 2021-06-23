@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aXKVP6NBbIWADhez1fkCi+EcmrXUYw46Drt2IDUzjWZMjZ0KnmXfFuLTzb6JfplLfLvzqj96n7Cn1LFAv1SnMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jow_t\\Desktop\\Desenvolvimento\\Cursos\\Blue - EdTech\\Modulo 4 - BackEnd\\MonsterWorldAPI\\MonsterWorldAPI\\MonsterWorldAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jow_t\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\jow_t\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jow_t\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\jow_t\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\jow_t\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\jow_t\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
